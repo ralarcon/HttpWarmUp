@@ -1,0 +1,10 @@
+start HttpWarmpUp.exe http://noticias.terra.es/actualidad/default.aspx 1 false true 1
+start HttpWarmpUp.exe http://noticias.terra.es/Espana/Actualidad/default.aspx 1 false true 1
+start HttpWarmpUp.exe http://noticias.terra.es/Mundo/Actualidad/default.aspx 1 false true 1
+start HttpWarmpUp.exe http://noticias.terra.es/Local/Actualidad/default.aspx 1 false true 1
+start HttpWarmpUp.exe http://noticias.terra.es/Sucesos/Actualidad/default.aspx 1 false true 1
+start HttpWarmpUp.exe http://noticias.terra.es/GenteYCultura/Actualidad/default.aspx 1 false true 1
+start HttpWarmpUp.exe http://noticias.terra.es/Economia/Actualidad/default.aspx 1 false true 1
+start HttpWarmpUp.exe http://noticias.terra.es/Especiales/Actualidad/default.aspx 1 false true 1
+start HttpWarmpUp.exe http://noticias.terra.es/Videos/Actualidad/default.aspx 1 false true 1
+start HttpWarmpUp.exe http://noticias.terra.es/Fotos/Actualidad/default.aspx 1 false true 1

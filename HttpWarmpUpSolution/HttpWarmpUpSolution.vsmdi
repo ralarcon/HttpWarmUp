@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestLists xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestList name="Lists of Tests" id="8c43106b-9dc1-4907-a29f-aa66a61bf5b6">
+    <RunConfiguration id="b950b30a-198a-43c7-9193-3e85e439da74" name="Local Test Run" storage="localtestrun.testrunconfig" type="Microsoft.VisualStudio.TestTools.Common.TestRunConfiguration, Microsoft.VisualStudio.QualityTools.Common,   PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestList>
+  <TestList name="CheckedTest" id="de4fa8ec-7767-4efa-9024-4458fd12e08c" parentListId="8c43106b-9dc1-4907-a29f-aa66a61bf5b6">
+    <TestLinks>
+      <TestLink id="ec140d79-c333-eba0-853d-0932f50f006d" name="ExtractLinks" storage="src\httpwarmuptests\bin\debug\httpwarmuptests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+      <TestLink id="a39d949a-6f44-f52c-ea1d-ff0baaf26585" name="CrawlDepth_2" storage="src\httpwarmuptests\bin\debug\httpwarmuptests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+      <TestLink id="02dca5fc-c6ec-e691-4bf7-12de52918528" name="CrawlDepth_100" storage="src\httpwarmuptests\bin\debug\httpwarmuptests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+      <TestLink id="876511af-a2e2-db6b-b7b7-b808f8236939" name="CrawlDepth_1" storage="src\httpwarmuptests\bin\debug\httpwarmuptests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+      <TestLink id="b47785a0-93a8-28e9-dbde-f95cffd7b4c5" name="CrawlDepth_3" storage="src\httpwarmuptests\bin\debug\httpwarmuptests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+      <TestLink id="fabfafb0-019f-2e16-04c9-35173cec22a1" name="CrawlDepth_0" storage="src\httpwarmuptests\bin\debug\httpwarmuptests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+      <TestLink id="cb2374bf-2469-1faa-1e98-e4e56e5f2d6e" name="ExtractLinksAndImages" storage="src\httpwarmuptests\bin\debug\httpwarmuptests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    </TestLinks>
+  </TestList>
+</TestLists>
