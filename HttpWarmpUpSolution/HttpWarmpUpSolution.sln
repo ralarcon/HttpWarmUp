@@ -1,17 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{77BB894A-A8B4-489C-894F-04994F8A0A00}"
 	ProjectSection(SolutionItems) = preProject
 		HttpWarmpUpSolution.vsmdi = HttpWarmpUpSolution.vsmdi
 		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
-		ScanTERRA_ES_DEPTH-3.cmd = ScanTERRA_ES_DEPTH-3.cmd
-		ScanTERRA_ES_Portadas-DEPTH-1.cmd = ScanTERRA_ES_Portadas-DEPTH-1.cmd
+		ScanSITE_DEPTH-3.cmd = ScanSITE_DEPTH-3.cmd
+		ScanSITES_-DEPTH-1.cmd = ScanSITES_-DEPTH-1.cmd
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terra.Tools.HttpWarmUp", "src\HttpWarmpUp\Terra.Tools.HttpWarmUp.csproj", "{AD1E6DF7-B4E4-4FD2-BB1B-5EDB99419D69}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tools.HttpWarmUp", "src\HttpWarmpUp\Tools.HttpWarmUp.csproj", "{AD1E6DF7-B4E4-4FD2-BB1B-5EDB99419D69}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
