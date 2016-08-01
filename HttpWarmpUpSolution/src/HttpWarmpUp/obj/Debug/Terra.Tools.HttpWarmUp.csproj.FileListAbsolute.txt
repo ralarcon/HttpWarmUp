@@ -1,1 +1,0 @@
-C:\Code\github\HttpWarmUp\HttpWarmpUpSolution\src\HttpWarmpUp\bin\Debug\HttpWarmpUp.exe.config
